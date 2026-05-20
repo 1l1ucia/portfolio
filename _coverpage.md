@@ -14,7 +14,9 @@
 
 ### Proyecto realizado por:
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io: 
+https://1l1ucia.itch.io/portafolio
+
 
 #### Facultad de Bellas Artes. Universidad de Granada, 202X
 
