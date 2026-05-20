@@ -12,13 +12,13 @@
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: Lucía García Marruecos
 
 ### Enlace a Itch.io: 
 https://1l1ucia.itch.io/portafolio
 
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 
