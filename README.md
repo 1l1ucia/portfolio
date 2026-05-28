@@ -82,13 +82,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque tiene unas características y estetica muy unica.Dentro de un universo YK2 en la playa gracias a traves del sonido de ambiente del juego.Es diferente porque es un proyecto diferente relajante sin tener que quebrarte mucho la cabeza.-Es más bien para admirar los rasgos del juego en un momento relajante y cómodo.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a chicas jovenes que les guste los minijuegos y la estética 2000s
 
 
 
@@ -137,7 +137,8 @@ Este  proyecto es interesante porque ...
 **Herramientas utilizadas**
 
 - Godot Engine 4.x
-- 
+- Pinterest
+- Audicity para cortar los sonidos/audios de fondo
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
 https://creativecommons.org/licenses/?lang=es
@@ -146,4 +147,4 @@ https://creativecommons.org/licenses/?lang=es
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
