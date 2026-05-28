@@ -76,41 +76,60 @@ Todo el diseño mantiene una identidad visual coherente: rosas suaves, hibiscos 
 Antes de diseñar, analicé qué estética y qué tipo de interacción encajaban mejor con mi público.
 El usuario ideal de este proyecto busca:
 - Una experiencia visual suave, rosita y femenina
+  
 - Un ambiente playero, veraniego y relajado
+
 - Elementos Y2K como iPods, mariposas, siluetas bailando y flores tropicales
+  
 - Navegación sencilla, directa y sin complicaciones
 
 A partir de esto definí el mood general: Y2K + playa + chill + rosa pastel.
 
 Con la estética definida, diseñé cada pantalla del proyecto:
 -Portada con hibiscos grandes, tipografía cursiva rosa y presentación personal.
+
 -Menú interactivo con botones suaves y accesibles.
+
 -Pantallas multimedia con iPods, cámaras HD y elementos retro.
+
 -Ilustraciones y arte que mantienen coherencia cromática (rosas, lilas, turquesas).
+
 -Siluetas estilo anuncio iPod para reforzar el vibe Y2K.
+
 -Todo está pensado para que el usuario sienta una experiencia coqueta, veraniega y nostálgica, pero moderna.
 
 Desarrollo: Construcción del Producto Multimedia
 Una vez definidos los elementos visuales, construí el proyecto:
 -Integré el minijuego con estética playera y mariposas.
+
 -Organicé el menú para acceder a galería, música, vídeo y créditos.
+
 -Añadí animaciones suaves y transiciones fluidas.
+
 -Mantengo siempre la coherencia estética: rosa pastel, flores tropicales, brillos Y2K.
+
 -El objetivo fue que todo se sintiera ligero, intuitivo y agradable.
 
 Pruebas: Testeo con Usuarios
 Probé el proyecto con varias personas para observar:
 -Si entendían el menú sin explicación.
+
 -Si la navegación era fluida.
+
 -Si la estética resultaba atractiva y coherente.
+
 -Si el minijuego era fácil de iniciar y jugar.
+
  Gracias a estas pruebas ajusté tamaños de botones, contraste de textos y fluidez de navegación.
 
 Iteración: Mejoras y Pulido Final
 Tras el testeo, realicé un glow-up final:
 -Ajusté colores para mayor legibilidad.
+
 -Añadí detalles Y2K (brillos, mariposas, iconos retro).
+
 -Organicé mejor el menú para que fuera más intuitivo.
+
  Pulí la estética para que todo respirara verano, rosa y nostalgia dosmilera.
 
  Mi producto multimedia se ha desarrollado siguiendo una metodología UX centrada en el usuario, pero reinterpretada con una estética muy personal: Y2K rosita, tropical, chill y femenina.
