@@ -35,12 +35,14 @@ Este Storyboard a lapiz es la idea inicial que tenía de la pagina web/portfolio
 
 - Instagram : 1l1digitaldiary
 
-!<img width="500" height="500" alt="descargar-removebg-preview" src="https://github.com/user-attachments/assets/93d6bda6-95ac-4ff5-a66c-aa765c711121" />
-)
+<img width="500" height="500" alt="descargar-removebg-preview" src="https://github.com/user-attachments/assets/93d6bda6-95ac-4ff5-a66c-aa765c711121" />
+
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1 Storyboard: Hice dos Storyboard para concretar como iba a ser el Portfolio Yk2.Al principio era un simple portfolio con dos escenas con mis obras.Pero al nivel de la clase iba subiendo la dificultad,he ido añadiendolo más contenido que no aparece en la pagina web 2000s
+
+
 
 
 
