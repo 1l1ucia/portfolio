@@ -7,46 +7,45 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
+ MI Proyecto : Portfolio YK2
 
-**Titulo** : MI Proyecto(Portafolio YK2)
+  (url 1l1ucia.github.io)
 
-**Web:**   (url 1l1ucia.github.io)
-
-**Autor:**  (Lucía García Marruecos) 
+ Lucía García Marruecos
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto trata de un portfolio interactivo para conocerme un poco mejor con estética playera,2000s,galería de imagenes de mis obras y vídeos y musica para relajarte y pasartelo bien conmigo!!Es un recorrido de nostalgia a través de rasgos de estos años y con minijuegos siguiendo la estética.
+ Este proyecto trata de un portfolio interactivo para conocerme un poco mejor con estética playera,2000s,galería de imagenes de mis obras y vídeos y musica para relajarte y pasartelo bien conmigo!!Es un recorrido de nostalgia a través de rasgos de estos años y con minijuegos siguiendo la estética.
 
-**Estilo/género:**  Se trata de un Portfolio con la estética de los años 2000.Inspirado en la estetica playera , cute, rosita con flores y con minijuego y videos al estilo de estos años.Todo conectado entre sí y con el mp3 puedes escuchar música relajante.
+ Se trata de un Portfolio con la estética de los años 2000.Inspirado en la estetica playera , cute, rosita con flores y con minijuego y videos al estilo de estos años.Todo conectado entre sí y con el mp3 puedes escuchar música relajante.
 
-**Logotipo** : [storyboard luciagm (1).pdf](https://github.com/user-attachments/files/28343610/storyboard.luciagm.1.pdf)
+ [storyboard luciagm (1).pdf](https://github.com/user-attachments/files/28343610/storyboard.luciagm.1.pdf)
 Este Storyboard a lapiz es la idea inicial que tenía de la pagina web/portfolio/minijuego .Al principio quería algo más serio y solo de ir pasando y clasificando obras.Pero a medida que iba conociendo Godot lo he unificado todo.
 
-**Resolución:** 800x600px responsivo/o tamaño fijo 
+ 800x600px responsivo/o tamaño fijo 
 
-**Probado en:**  El juego funciona tanto en movil android como en iphone .Donde se ve mejor y tiene 800x600 px de resolución es en dispositivo con mayor rango de pantalla grafíca.
+ El juego funciona tanto en movil android como en iphone .Donde se ve mejor y tiene 800x600 px de resolución es en dispositivo con mayor rango de pantalla grafíca.
 
-**Tamaño proyecto:** El tamaño del proyecto es mediano de 1-100 MB
+El tamaño del proyecto es mediano de 1-100 MB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 27/05/2026
+ 27/05/2026
 
-- Instagram : 1l1digitaldiary
+- Instagram : 1l1digitaldiary ( para conocer mis proyectos y recorrido estudiando bellas artes desde la red social)
 
 <img width="500" height="500" alt="descargar-removebg-preview" src="https://github.com/user-attachments/assets/93d6bda6-95ac-4ff5-a66c-aa765c711121" />
 
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: Hice dos Storyboard para concretar como iba a ser el Portfolio Yk2.Al principio era un simple portfolio con dos escenas con mis obras.Pero al nivel de la clase iba subiendo la dificultad,he ido añadiendolo más contenido que no aparece en la pagina web 2000s
+### 2.1 Storyboard: "\storyboardLGM.heic" "storyboard luciagm (1).pdf"
+Hice dos Storyboard para concretar como iba a ser el Portfolio Yk2.Al principio era un simple portfolio con dos escenas con mis obras.Pero al nivel de la clase iba subiendo la dificultad,he ido añadiendolo más contenido que no aparece en la pagina web 2000s
 
 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
