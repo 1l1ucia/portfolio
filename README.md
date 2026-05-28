@@ -13,8 +13,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
  Lucía García Marruecos
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
-
  Este proyecto trata de un portfolio interactivo para conocerme un poco mejor con estética playera,2000s,galería de imagenes de mis obras y vídeos y musica para relajarte y pasartelo bien conmigo!!Es un recorrido de nostalgia a través de rasgos de estos años y con minijuegos siguiendo la estética.
 
  Se trata de un Portfolio con la estética de los años 2000.Inspirado en la estetica playera , cute, rosita con flores y con minijuego y videos al estilo de estos años.Todo conectado entre sí y con el mp3 puedes escuchar música relajante.
@@ -72,23 +70,60 @@ La escena más diverida donde relaciono el Ipod con la musica y sale un gift cre
 
 
 # 3. Metodología
+Mi proyecto multimedia —que incluye portada floral, menú interactivo, minijuego, vídeo y estética Y2K— se ha desarrollado siguiendo una metodología UX, es decir, un proceso centrado en crear una experiencia bonita, intuitiva y agradable para el usuario.
+Todo el diseño mantiene una identidad visual coherente: rosas suaves, hibiscos tropicales, mariposas, iPods retro, vibes de playa y un estilo chill dosmilero.
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Antes de diseñar, analicé qué estética y qué tipo de interacción encajaban mejor con mi público.
+El usuario ideal de este proyecto busca:
+- Una experiencia visual suave, rosita y femenina
+- Un ambiente playero, veraniego y relajado
+- Elementos Y2K como iPods, mariposas, siluetas bailando y flores tropicales
+- Navegación sencilla, directa y sin complicaciones
+
+A partir de esto definí el mood general: Y2K + playa + chill + rosa pastel.
+
+Con la estética definida, diseñé cada pantalla del proyecto:
+-Portada con hibiscos grandes, tipografía cursiva rosa y presentación personal.
+-Menú interactivo con botones suaves y accesibles.
+-Pantallas multimedia con iPods, cámaras HD y elementos retro.
+-Ilustraciones y arte que mantienen coherencia cromática (rosas, lilas, turquesas).
+-Siluetas estilo anuncio iPod para reforzar el vibe Y2K.
+-Todo está pensado para que el usuario sienta una experiencia coqueta, veraniega y nostálgica, pero moderna.
+
+Desarrollo: Construcción del Producto Multimedia
+Una vez definidos los elementos visuales, construí el proyecto:
+-Integré el minijuego con estética playera y mariposas.
+-Organicé el menú para acceder a galería, música, vídeo y créditos.
+-Añadí animaciones suaves y transiciones fluidas.
+-Mantengo siempre la coherencia estética: rosa pastel, flores tropicales, brillos Y2K.
+-El objetivo fue que todo se sintiera ligero, intuitivo y agradable.
+
+Pruebas: Testeo con Usuarios
+Probé el proyecto con varias personas para observar:
+-Si entendían el menú sin explicación.
+-Si la navegación era fluida.
+-Si la estética resultaba atractiva y coherente.
+-Si el minijuego era fácil de iniciar y jugar.
+ Gracias a estas pruebas ajusté tamaños de botones, contraste de textos y fluidez de navegación.
+
+Iteración: Mejoras y Pulido Final
+Tras el testeo, realicé un glow-up final:
+-Ajusté colores para mayor legibilidad.
+-Añadí detalles Y2K (brillos, mariposas, iconos retro).
+-Organicé mejor el menú para que fuera más intuitivo.
+ Pulí la estética para que todo respirara verano, rosa y nostalgia dosmilera.
+
+ Mi producto multimedia se ha desarrollado siguiendo una metodología UX centrada en el usuario, pero reinterpretada con una estética muy personal: Y2K rosita, tropical, chill y femenina.
+Cada pantalla, cada icono y cada interacción están pensados para transmitir una experiencia suave, divertida y coherente con mi identidad artística.
 
 
 
 ## Etapa 1: Ideación de proyecto
-
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+- Para hacer el portfolio con tanta identidad visual me inspire en lo que me gusta y sobre todo a los juegos que jugaba cuando era niña como es juegosdechicas.com
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque tiene unas características y estetica muy unica.Dentro de un universo YK2 en la playa gracias a traves del sonido de ambiente del juego.Es diferente porque es un proyecto diferente relajante sin tener que quebrarte mucho la cabeza.-Es más bien para admirar los rasgos del juego en un momento relajante y cómodo.
+Este  proyecto es interesante porque tiene unas características y estetica muy unica.Dentro de un universo YK2 en la playa gracias a traves del sonido de ambiente del juego.Es diferente porque es un proyecto diferente relajante sin tener que quebrarte mucho la cabeza.-Es más bien para admirar los rasgos del juego en un momento relajante y cómodo. Cumple con mis expectativas de portfolio interactivo divertido para el espectador y muy visual.
 
 
 
