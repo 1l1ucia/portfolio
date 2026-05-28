@@ -20,7 +20,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Se trata de un Portfolio con la estética de los años 2000.Inspirado en la estetica playera , cute, rosita con flores y con minijuego y videos al estilo de estos años.Todo conectado entre sí y con el mp3 puedes escuchar música relajante.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : [storyboard luciagm (1).pdf](https://github.com/user-attachments/files/28343610/storyboard.luciagm.1.pdf)
+Este Storyboard a lapiz es la idea inicial que tenía de la pagina web/portfolio/minijuego 
 
 (insertar imágenes a resolucion de 100px alto)
 
