@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## PORTFOLIO YK2
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
