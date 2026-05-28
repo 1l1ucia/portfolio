@@ -21,28 +21,22 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Se trata de un Portfolio con la estética de los años 2000.Inspirado en la estetica playera , cute, rosita con flores y con minijuego y videos al estilo de estos años.Todo conectado entre sí y con el mp3 puedes escuchar música relajante.
 
 **Logotipo** : [storyboard luciagm (1).pdf](https://github.com/user-attachments/files/28343610/storyboard.luciagm.1.pdf)
-Este Storyboard a lapiz es la idea inicial que tenía de la pagina web/portfolio/minijuego 
+Este Storyboard a lapiz es la idea inicial que tenía de la pagina web/portfolio/minijuego .Al principio quería algo más serio y solo de ir pasando y clasificando obras.Pero a medida que iba conociendo Godot lo he unificado todo.
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 800x600px responsivo/o tamaño fijo 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Probado en:**  El juego funciona tanto en movil android como en iphone .Donde se ve mejor y tiene 800x600 px de resolución es en dispositivo con mayor rango de pantalla grafíca.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** El tamaño del proyecto es mediano de 1-100 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 27/05/2026
 
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
 - Instagram : 1l1digitaldiary
 
-
-![girl](WalkingGirl_front01.png)
+!<img width="500" height="500" alt="descargar-removebg-preview" src="https://github.com/user-attachments/assets/93d6bda6-95ac-4ff5-a66c-aa765c711121" />
+)
 
 # 2. Memoria del proyecto 
 
