@@ -16,7 +16,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto trata de un portfolio interactivo para conocerme un poco mejor con estética playera,2000s,galería de imagenes de mis obras y vídeos y musica para relajarte y pasartelo bien conmigo!!Es un recorrido de nostalgia a través de rasgos de estos años y con minijuegos siguiendo la estética.
 
 **Estilo/género:**  Se trata de un Portfolio con la estética de los años 2000.Inspirado en la estetica playera , cute, rosita con flores y con minijuego y videos al estilo de estos años.Todo conectado entre sí y con el mp3 puedes escuchar música relajante.
 
