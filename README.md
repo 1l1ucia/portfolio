@@ -8,17 +8,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : MI Proyecto(Portafolio YK2)
 
-**Web:**   (url github.io)
+**Web:**   (url 1l1ucia.github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  (Lucía García Marruecos) 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
 **Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Se trata de un Portfolio con la estética de los años 2000.Inspirado en la estetica playera , cute, rosita con flores y con minijuego y videos al estilo de estos años.Todo conectado entre sí y con el mp3 puedes escuchar música relajante.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -38,7 +38,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Github:
 - Twitter
-- Instagram
+- Instagram : 1l1digitaldiary
 
 
 ![girl](WalkingGirl_front01.png)
