@@ -79,9 +79,9 @@ El usuario ideal de este proyecto busca:
   
 - Un ambiente playero, veraniego y relajado
 
-- Elementos Y2K como iPods, mariposas, siluetas bailando y flores tropicales
+- Elementos Y2K como iPods, mariposas, siluetas bailando y flores tropicales[remap]
   
-- Navegación sencilla, directa y sin complicaciones
+- Navegación sencilla, directa y sin complicaciones.
 
 A partir de esto definí el mood general: Y2K + playa + chill + rosa pastel.
 
@@ -142,7 +142,7 @@ Cada pantalla, cada icono y cada interacción están pensados para transmitir un
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque tiene unas características y estetica muy unica.Dentro de un universo YK2 en la playa gracias a traves del sonido de ambiente del juego.Es diferente porque es un proyecto diferente relajante sin tener que quebrarte mucho la cabeza.-Es más bien para admirar los rasgos del juego en un momento relajante y cómodo. Cumple con mis expectativas de portfolio interactivo divertido para el espectador y muy visual.
+Este  proyecto es interesante porque tiene unas características y estetica muy unica.Dentro de un universo YK2 en la playa gracias a traves del sonido de ambiente del juego.Es diferente porque es un proyecto diferente relajante sin tener que quebrarte mucho la cabeza.Es más bien para admirar los rasgos del juego en un momento relajante y cómodo. Cumple con mis expectativas de portfolio interactivo divertido para el espectador y muy visual.
 
 
 
@@ -158,26 +158,22 @@ Este  proyecto es interesante porque tiene unas características y estetica muy 
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Al ser portfolio se me quedaba muy corto . Así que hice como un mix entre galería de fotos , pagina web dosmilera y minijuego.
+- El vídeo lo implante en el menu interactivo de la pagina web encanjado el ipod ( para usarlo primero para poner música ) y después el vídeo al implementando el icono del mp3/ipod .
+  El juego tiene gran accesibilidad y es bastante sencillo.Todo se conecta a través del menu interactivo dentro de la escena 1. El portfolio interactivo se compone de 4 escenas:
+  -escena1presentación: menuportfolio.tscn , menu.tscn , minijuego.tsc constituye todas a una carpeta en los archivos.El minijuego funciona a traves de las flechas del teclado.Lo construí todo dentro de una misma escena para no tener una comulación de escenas , que realmente todas son el inicio del portfolio interactivo.
+  -escena2galeria: Galería de imagenes
+  -escena3creditos: Realmente en el orden , va la ultima pero como el espectador puede elegir el orden que el quiera a través del menu.Da igual si está escena se ve antes o despues.
+  -escena4video : Esta escena es de las que menos e ha costado al no tener mucha programación.Por ello , plantee incorporar música. 
 
 
 
 ## Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
+La C de creditos cuando abres godot se ve, pero a la hora de exportar en itchio desaparece.Y el video lo puse en autoplay pero al ser fotograma por fotograma hecho por mí es normal que se colapse y no pille el autoplay.Por lo demás he sido muy resolutiva y en la vida me hubiese imaginado hacer algo con informatica que respete mi estetica.
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
+Me hubuese gustado meterle más minijuegos , y alguna galería de imagenes más , para hacer un puzle siguiendo la estetica del proyecto.Pero al no saber mucho de programar se me ha complicado mucho , y no se me abría los scripts en el ordenador de clase cuando trabaja en casa para avanzar.Por lo que se me mezclo lo que hacía en clase y lo que hacía en casa.Pero al no tener ningun tipo de ayuda solo la mía y la de profesor estoy basd¡tante orgullosa.Tabién he perdido mucho tiempo corriguiendo los bottons y los bottons pressed , parecía que avanzaba pero iba para atrás al colapsarse.Al final con la ayuda de Miguel he podido sacar algo y hechando horas extras después de clase.
 
 
 
@@ -190,9 +186,13 @@ Este  proyecto es interesante porque tiene unas características y estetica muy 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica: [jonathanslattermusic-sea-gently-lapping-waves-far-away-seagulls-486892.mp3](https://github.com/user-attachments/files/28349867/jonathanslattermusic-sea-gently-lapping-waves-far-away-seagulls-486892.mp3)  [Rihanna - Pon de Replay (Internet Version).mp3](https://github.com/user-attachments/files/28350306/Rihanna.-.Pon.de.Replay.Internet.Version.mp3)
+
+  
+* Imágenes:  De Pinterest y hechas por mí las que son de galería de imagenes.
+* Tipografía: "res://LacheyardScript_PERSONAL_USE_ONLY.otf" de Dafont 
+
+
 
 **Herramientas utilizadas**
 
@@ -200,11 +200,36 @@ Este  proyecto es interesante porque tiene unas características y estetica muy 
 - Pinterest
 - Audicity para cortar los sonidos/audios de fondo
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
+REFERENTES Y ARTICULOS : 
+Referentes visuales Y2K Aesthetic Wiki (estilos, colores, iconografía)
 
-* logos en https://creativecommons.org/mission/downloads/
-  
-  <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
+-Hello Kitty (2000–2008) — paletas rositas, flores simples, contornos suaves
+
+-Winx Club (temporadas 1–2) — mariposas, brillos, glitter, curvas
+
+-Bratz (2001–2006) — colores saturados, corazones, estrellas, rosa chicle
+
+-Barbie Fairytopia (2005) — mariposas, flores, tonos pastel brillantes
+
+-Menús de juegos de Nintendo DS / GBA — iconos simples, sombras suaves
+
+-Diseño web Y2K (glossy, gradients, burbujas, glitter)
+
+Referentes para mariposas y flores:
+-Clipart Y2K (mariposas con contorno grueso y colores pastel)
+
+-Stickerpacks de LINE / Kakao estilo cute 2000s
+
+-Neopets (2000–2005) — formas simples, colores vibrantes
+
+-Iconos de MySpace glitter — brillos, estrellas, outlines blancos
+
+Referentes de minijuegos:
+-Club Penguin – Catching Waves / Cart Surfer / Ice Fishing
+Colección de minijuegos (gameplay): https://www.bing.com/ck/a?!&&p=dc97ba2ae7b9407095634cef9dd4599a456cae0d9419ef9284ef26236767c6b0JmltdHM9MTc3OTkyNjQwMA&ptn=3&ver=2&hsh=4&fclid=02d4fe22-21b7-6e2d-23ea-eb8820c06f2d&psq=club+penguin&u=a1aHR0cHM6Ly9wbGF5LmNwam91cm5leS5uZXQv
+-Neopets (estética cute 2000s + minijuegos simples) Página oficial: https://www.neopets.com/
+-Juegos de Barbie (estética Y2K rosita) Colección de juegos clásicos: https://www.barbie.com/en-us/games
+-Juegos de Winx Club (mariposas, glitter, vibes 2000s) Colección fan preservada: https://www.winxclubgames.com/
+
 
 Mayo 2026
